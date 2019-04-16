@@ -1,4 +1,5 @@
 # Counter-of-selected-checkboxes
+<h3>Счётчик выбранных чекбоксов</h3>
 
 ```html
 <!DOCTYPE html>
